@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLEchat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="advertise_failed_data_too_large">数据太大</string>
+    <string name="advertise_failed_already_started">数据太多</string>
+    <string name="advertise_failed_internal_error">内部错误</string>
+    <string name="advertise_failed_feature_unsupported">不支持</string>
+</resources>
